@@ -1,0 +1,18 @@
+{
+  "name": "ucsd-quarters-years",
+  "version": "1.0.0",
+  "description": "Information about academic quarters and years at UCSD.",
+  "main": "src/index.ts",
+  "scripts": {
+    "lint": "eslint src --ext .ts .",
+    "lint:fix": "eslint src --ext .ts --fix ."
+  },
+  "repository": "http://github.com/acmucsd/ucsd-quarters-years",
+  "author": "Matei-Alexandru Gardus <matei@gard.us>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "luxon": "^1.27.0",
+    "typescript": "^4.3.5"
+  }
+}
