@@ -17,6 +17,18 @@ export const quarters = {
     start: '2021-03-24T00:00:00.000-07:00',
     end: '2021-06-11T00:00:00.000-07:00',
   },
+  SS121: {
+    code: 'SS121',
+    name: 'Summer Session I 2021',
+    start: '2021-06-28T00:00:00.000-07:00',
+    end: '2021-07-31T00:00:00.000-07:00',
+  },
+  SS221: {
+    code: 'SS221',
+    name: 'Summer Session II 2021',
+    start: '2021-08-02T00:00:00.000-07:00',
+    end: '2021-09-05T00:00:00.000-07:00',
+  },
   FA21: {
     code: 'FA21',
     name: 'Fall Quarter 2021',
@@ -35,6 +47,18 @@ export const quarters = {
     start: '2022-03-23T00:00:00.000-07:00',
     end: '2022-06-10T00:00:00.000-07:00',
   },
+  SS122: {
+    code: 'SS122',
+    name: 'Summer Session I 2022',
+    start: '2022-06-27T00:00:00.000-07:00',
+    end: '2022-07-30T00:00:00.000-07:00',
+  },
+  SS222: {
+    code: 'SS222',
+    name: 'Summer Session II 2022',
+    start: '2022-08-01T00:00:00.000-07:00',
+    end: '2022-09-04T00:00:00.000-07:00',
+  },
   FA22: {
     code: 'FA22',
     name: 'Fall Quarter 2022',
@@ -52,6 +76,18 @@ export const quarters = {
     name: 'Spring Quarter 2023',
     start: '2023-03-29T00:00:00.000-07:00',
     end: '2023-06-16T00:00:00.000-07:00',
+  },
+  SS123: {
+    code: 'SS123',
+    name: 'Summer Session I 2023',
+    start: '2023-07-03T00:00:00.000-07:00',
+    end: '2023-08-05T00:00:00.000-07:00',
+  },
+  SS223: {
+    code: 'SS223',
+    name: 'Summer Session II 2023',
+    start: '2023-08-07T00:00:00.000-07:00',
+    end: '2023-09-09T00:00:00.000-07:00',
   },
   FA23: {
     code: 'FA23',
