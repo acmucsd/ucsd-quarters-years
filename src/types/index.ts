@@ -12,11 +12,20 @@ export interface Year {
 }
 
 export interface QuarterData {
-    [code: string]: Quarter;
+  [key: string]: {
+    code: string;
+    name: string;
+    start: string;
+    end: string;
+  };
 }
 
 export interface YearData {
-    [year: string]: Year;
+  [key: string]: {
+    name: string;
+    start: string;
+    end: string;
+  };
 }
 
 export interface Bound {
