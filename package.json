@@ -1,6 +1,6 @@
 {
   "name": "ucsd-quarters-years",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Information about academic quarters and years at UCSD.",
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
